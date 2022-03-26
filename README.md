@@ -1,4 +1,4 @@
-## Hello, world! I'm SH1RYAEV ALEXANDR.
+## Hello, world! I'm SHIRYAEV ALEXANDR.
 
 ## Beginer software developer.
 
